@@ -1,0 +1,32 @@
+.cover {
+    background-image: url("images/stars_space_galaxy_117958_1920x1080.jpg");
+
+}
+
+
+.stars {
+    background-repeat: no-repeat;
+}
+
+.joshua {
+    width: 18rem;
+    border-radius: 50%;
+}
+
+.bg-transparent {
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 5%;
+}
+
+.introduction {
+
+}
+
+.cover-text {
+
+}
+
+.about-me {
+
+}
